@@ -1,0 +1,1 @@
+export default 'https://customdemo.website/apps/primo-carro/public';
